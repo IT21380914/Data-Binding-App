@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="tvTitle">Register</string>
+    <string name="edtName">Username</string>
+    <string name="edtEmail">Email</string>
+    <string name="edtPhone">Phone Number</string>
+    <string name="edtPassword">Password</string>
+    <string name="edtRePassword">Re-enter Password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="tvUsers">Users</string>
+    <string name="btnBack">Back</string>
+    <string name="tvUserName">Seokkie</string>
+</resources>
